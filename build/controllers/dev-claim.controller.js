@@ -7,7 +7,7 @@ const claims_1 = __importDefault(require("../claims/claims"));
 class DevClaimController {
     constructor() {
         this.devclaim = (req, res, next) => {
-            const claim = claims_1.default[Math.floor(Math.random()) * claims_1.default.length];
+            const claim = claims_1.default[Math.floor(Math.random() * claims_1.default.length)];
             res.render('index.ejs', { claim });
         };
     }

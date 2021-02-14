@@ -26,7 +26,7 @@ const claims: DevClaim[] = [
     tagline: "You're using the wrong version"
   },
   {
-    tagline: "Have you tried turning it off and on again"
+    tagline: "Have you tried turning it off and on again?"
   },
   {
     tagline: "Have you tried deleting your cookies and cache?"
@@ -41,7 +41,7 @@ const claims: DevClaim[] = [
     tagline: "I thought I fixed that"
   },
   {
-    tagline: "I can finish that in a fea minutes"
+    tagline: "I can finish that in a few minutes"
   }
 ]
 

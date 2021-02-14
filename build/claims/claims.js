@@ -41,7 +41,7 @@ const claims = [
         tagline: "I thought I fixed that"
     },
     {
-        tagline: "I can finish that in a fea minutes"
+        tagline: "I can finish that in a few minutes"
     }
 ];
 exports.default = claims;
